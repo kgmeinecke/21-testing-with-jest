@@ -1,5 +1,5 @@
 function findHighestScoringStudent(students) {
-    //TODO
+    return 
 }
 
 module.exports = findHighestScoringStudent;
